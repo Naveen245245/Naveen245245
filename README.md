@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 **I am Naveen...**
 
 - 🔭 I’m currently working on **Bank project in JAVA and SpringBoot**. Explored a lot with **python and Django**.
